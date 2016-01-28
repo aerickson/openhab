@@ -2,7 +2,7 @@
 <Product>
 	<Model>12718</Model>
 	<Endpoints>1</Endpoints>
-	<Label lang="en">Lighting Lamp Module with Dimmer Control</Label>
+	<Label lang="en">Plug-In Dimmer</Label>
 	<CommandClasses>
 		<Class>
 			<id>0x20</id>
